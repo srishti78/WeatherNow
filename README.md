@@ -1,4 +1,12 @@
 # WeatherNow - Simple Weather App
+## Screenshots :
+![Screenshot1](https://github.com/srishti78/WeatherNow/assets/57844539/df4a7a3a-aaa9-4045-9d4f-22d3aca51c68)
+
+
+![Screenshot2](https://github.com/srishti78/WeatherNow/assets/57844539/cfbe7f03-ca95-4d7d-8f9f-5e24bcecd539)
+
+
+![Screenshot3](https://github.com/srishti78/WeatherNow/assets/57844539/d1d35039-b691-4314-8e5c-34bc5294b307)
 
 ## Description:
 This is a straightforward weather app for websites, created using HTML, CSS, and JavaScript. It leverages the OpenWeatherMap API to provide real-time weather information for a specified city. The app displays essential weather details such as temperature, weather conditions, humidity, and wind speed. Users can input a city name in a search box, and the app will promptly fetch and display the weather information for that city.
