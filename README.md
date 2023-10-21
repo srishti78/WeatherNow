@@ -1,6 +1,6 @@
 # WeatherNow - Simple Weather App
 ## Screenshots :
-<img src="![Screenshot1](https://github.com/srishti78/WeatherNow/assets/57844539/df4a7a3a-aaa9-4045-9d4f-22d3aca51c68)" width="100" height="100">
+<img src="https://github.com/srishti78/WeatherNow/raw/master/assets/57844539/df4a7a3a-aaa9-4045-9d4f-22d3aca51c68" width="100" height="100" alt="Screenshot1">
 
 ![Screenshot2](https://github.com/srishti78/WeatherNow/assets/57844539/cfbe7f03-ca95-4d7d-8f9f-5e24bcecd539)
 
